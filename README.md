@@ -1,29 +1,38 @@
 ### Hi, I'm Vini
 
-I'm a backend engineer in A Coruña, working on distributed systems at [Inditex](https://github.com/inditex).
-Most of my days are Java and Spring Boot services that talk to each other through events, with separate write and read models and contracts defined before the code.
+Backend engineer in A Coruña.
+At [Inditex](https://github.com/inditex) I build distributed systems: Java services that talk to each other through events, keep separate write and read models, and agree on contracts before anyone writes a line of code.
+Basically couples therapy for microservices.
 
-In my spare time I build small tools I want to exist.
-The latest one is [GitHub Float](https://github.com/vinimcorrea/github-float), a floating macOS panel that keeps my team's code reviews in sight, so pull requests don't wait for days without anyone noticing.
+My official answer to "is it done yet?" is "it's eventually consistent".
+
+On the side I build the tools I wish existed.
+The latest is [GitHub Float](https://github.com/vinimcorrea/github-float), a small macOS panel that floats over everything and shows which pull requests are waiting for review.
+I built it because my PRs were spending more time in review than I spend at the gym.
+It has its own Homebrew tap now, so it's legally a real app:
 
 ```sh
 brew install --cask vinimcorrea/tap/github-float
 ```
 
-#### Things I've worked on
+#### Things I've shipped
 
-- [**GitHub Float**](https://github.com/vinimcorrea/github-float): native Swift app that polls GitHub Projects and notifies you when a review needs you.
-- **Prepaid credit payments**: a payment platform used by tens of thousands of people.
-- **Text to video**: an AI tool that turns text into short clips for creators.
-- **Lab image repository**: storage and search for thousands of biology lab images.
-- [**Atomix**](https://github.com/vinimcorrea/Atomix): heuristic search solving a one-player puzzle game, from university.
+- [**GitHub Float**](https://github.com/vinimcorrea/github-float): native Swift, one GraphQL query per poll, and it goes to sleep when your Mac does. Very polite software.
+- **Prepaid credit payments**: tens of thousands of people paid for things and the money ended up exactly where it should. That's the whole job, and it's harder than it sounds.
+- **Text to video**: an AI tool that turns text into short clips, for creators who'd rather not open a video editor ever again.
+- **Lab image repository**: helps biologists find one image among thousands, faster than they find a free pipette.
+- [**Atomix**](https://github.com/vinimcorrea/Atomix): I taught a computer to solve a puzzle game with heuristic search. It now plays better than me. University project, lifelong humbling.
 
-#### Usually working with
+#### Tools of the trade
 
-Java, Spring Boot, PostgreSQL, MongoDB, Redis, Docker and Azure.
-Python and TypeScript when the job asks for it, Swift for my own apps.
-I've also studied deep learning through CU Boulder's program, and I use AI assistants a lot in my daily work.
+Java and Spring Boot most days. PostgreSQL, MongoDB, Redis, Docker and Azure.
+Python and TypeScript when the job asks for it, Swift when nobody does.
+I studied deep learning through CU Boulder and I pair with AI every day, but I'm still the one who reviews the code.
 
-Away from the keyboard: jiu-jitsu, the gym and the guitar.
+#### Unimportant facts
 
-[LinkedIn](https://www.linkedin.com/in/vinimcorrea)
+- I write the failing test first. It's the only time I'm happy to see red.
+- My favourite pull request is the one that deletes more lines than it adds.
+- Away from the keyboard: Brazilian jiu-jitsu (I tap out less often than flaky tests fail), the gym, and the guitar, which has more bugs than my code but sounds better.
+
+[LinkedIn](https://www.linkedin.com/in/vinimcorrea), for when you want to talk about something serious.
