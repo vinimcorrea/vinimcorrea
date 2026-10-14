@@ -15,7 +15,7 @@
 I'm a backend engineer at **[Inditex](https://github.com/inditex)**, building the distributed systems behind retail operations at scale: event-driven Java services, separate write and read models, and API contracts agreed on before the first line of code.
 
 - 🏗️ **Building**: event-driven microservices with Spring Boot, PostgreSQL and MongoDB
-- 🪟 **Also**: [GitHub Float](https://github.com/vinimcorrea/github-float), a native macOS app that keeps your team's code reviews on top of every window
+- 🤖 **With AI**: I run coding agents like a small team. I split the work, they draft, I review and own what ships
 - 🧪 **How I work**: tests first, small PRs, green CI
 - 💬 **Ask me about**: CQRS, the outbox pattern, API-first design, and developer tools people actually keep open
 
@@ -55,13 +55,6 @@ I'm a backend engineer at **[Inditex](https://github.com/inditex)**, building th
 - **Text to video**: an AI tool that turns text into short-form clips for creators
 - **Lab image repository**: storage and search for thousands of biology lab images
 - **[Atomix](https://github.com/vinimcorrea/Atomix)**: heuristic search solving a one-player puzzle game
-
-### 🏆 GitHub
-
-<p align="center">
-  <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vinimcorrea&show_icons=true&hide_border=true&count_private=true&bg_color=0b1020&title_color=c4b5fd&icon_color=8b5cf6&text_color=e2e8f0">
-  <img height="160" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=vinimcorrea&hide_border=true&background=0b1020&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=94a3b8&stroke=1e1b4b">
-</p>
 
 <p align="center">
   <picture>
