@@ -19,18 +19,19 @@ I'm a backend engineer at **[Inditex](https://github.com/inditex)**, building th
 - 🧪 **How I work**: tests first, small PRs, green CI
 - 💬 **Ask me about**: CQRS, the outbox pattern, API-first design, and developer tools people actually keep open
 
-### 🪟 GitHub Float
+### 🪟 Side project
 
-<a href="https://github.com/vinimcorrea/github-float">
-  <img src="https://raw.githubusercontent.com/vinimcorrea/github-float/main/docs/social-preview.png" width="100%" alt="GitHub Float">
-</a>
-
-Pull requests were sitting in review for days without anyone noticing, so I built a floating panel that makes that impossible to ignore.
-Native Swift, one GraphQL query per poll, notifications only when something actually needs you.
-
-```sh
-brew install --cask vinimcorrea/tap/github-float
-```
+<table>
+  <tr>
+    <td width="88" align="center">
+      <a href="https://github.com/vinimcorrea/github-float"><img src="https://raw.githubusercontent.com/vinimcorrea/github-float/main/Icon/AppIcon.png" width="72" alt="GitHub Float"></a>
+    </td>
+    <td>
+      <b><a href="https://github.com/vinimcorrea/github-float">GitHub Float</a></b>: a floating macOS panel that keeps your team's code reviews in sight, so pull requests stop waiting for days unnoticed.<br>
+      <sub>Native Swift · one GraphQL query per poll · <code>brew install --cask vinimcorrea/tap/github-float</code></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Stack
 
@@ -39,6 +40,14 @@ brew install --cask vinimcorrea/tap/github-float
 </p>
 
 <sub>(Java on weekdays, Swift on weekends. Deep learning studies at CU Boulder in between.)</sub>
+
+### 📚 On my desk
+
+<p>
+  <a href="https://dataintensive.net/"><img src="https://covers.openlibrary.org/b/isbn/9781449373320-M.jpg" height="150" alt="Designing Data-Intensive Applications"></a>&nbsp;
+  <a href="https://fundamentalsofsoftwarearchitecture.com/"><img src="https://covers.openlibrary.org/b/isbn/9781492043454-M.jpg" height="150" alt="Fundamentals of Software Architecture"></a>&nbsp;
+  <a href="https://sre.google/sre-book/table-of-contents/"><img src="https://covers.openlibrary.org/b/isbn/9781491929124-M.jpg" height="150" alt="Site Reliability Engineering"></a>
+</p>
 
 ### 📦 Before this
 
