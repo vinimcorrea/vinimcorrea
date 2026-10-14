@@ -24,7 +24,7 @@
   <rect width="1200" height="280" rx="18" fill="url(#dots)"/>
 
   <text x="64" y="128" class="sans" font-size="64" font-weight="800" fill="#ffffff">Vini Correa</text>
-  <text x="66" y="174" class="sans" font-size="24" font-weight="500" fill="#c4b5fd">Backend engineer · distributed systems · tools I wish existed</text>
+  <text x="66" y="174" class="sans" font-size="24" font-weight="500" fill="#c4b5fd">Software engineer · distributed systems · tools I wish existed</text>
   <text x="66" y="218" class="mono" font-size="17" fill="#94a3b8">A Coruña, Spain</text>
 
   <g transform="translate(770,64)">
