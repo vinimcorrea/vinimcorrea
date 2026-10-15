@@ -12,7 +12,7 @@
 
 ### Hi! 👋
 
-I'm a software engineer at **[Inditex](https://github.com/inditex)**, building the distributed systems behind retail operations at scale: event-driven Java services, separate write and read models, and API contracts agreed on before the first line of code.
+I'm a software engineer at **[Inditex](https://www.inditex.com)**, building the distributed systems behind retail operations at scale: event-driven Java services, separate write and read models, and API contracts agreed on before the first line of code.
 
 - 🏗️ **Building**: event-driven microservices with Spring Boot, PostgreSQL and MongoDB
 - 🤖 **With AI**: I run coding agents like a small team. I split the work, they draft, I review and own what ships
